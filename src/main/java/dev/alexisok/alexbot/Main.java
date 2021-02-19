@@ -24,6 +24,8 @@ import java.util.*;
 /***/
 public final class Main extends ListenerAdapter {
     
+    private static final String token = "ODEyMjE4NTA1MTk3NTE4ODk4.YC9jbQ.M3uRIan5IuKcm4G6FCMplImqqcA";
+    
     private static final HashMap<String, String> RESPONSES = new HashMap<>();
     
     private static final List<String> HAS_FIRST_RESPOND = new ArrayList<>();
